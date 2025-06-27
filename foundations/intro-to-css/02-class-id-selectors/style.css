@@ -5,3 +5,12 @@
 .cooler{
     font-size: 24px;
 }
+#first{
+    color: #1625ee;
+    font-size: 36px;
+}
+#second{
+    background-color: hsla(120, 81%, 68%, 0.774);
+    font-size: 24px;
+    font-weight: bold;
+}
