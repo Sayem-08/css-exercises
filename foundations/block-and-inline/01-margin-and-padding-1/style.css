@@ -6,7 +6,6 @@ body {
 .one {
   background: pink;
   border: 3px solid blue;
-  /* CHANGE ME */
   padding: 32px;
   margin: 12px;
 }
@@ -14,7 +13,6 @@ body {
 .two {
   background: lightblue;
   border: 3px solid purple;
-  /* CHANGE ME */
   margin-bottom: 48px;
 }
 
@@ -22,7 +20,6 @@ body {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
-  /* CHANGE ME */
   padding: 32px;
   margin-left: auto;
 }
